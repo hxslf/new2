@@ -52,7 +52,7 @@ model.predict([[12]])
 model.predict([[100]])
 
 
-
+#السلام عليكم
 
 
 
